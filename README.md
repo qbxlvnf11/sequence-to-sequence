@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 Contents
 =============
 
-- Seq2Seq model translator implemented by keras (character-level, English-French, short-sentences)
+- Seq2Seq model translator implemented by keras (character-level, short-sentences, English-French)
 
 
 Datasets
