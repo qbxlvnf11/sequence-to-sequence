@@ -2,7 +2,9 @@ Description
 =============
 
 #### - Sequence-to-sequence (Seq2Seq) model
-<img src="https://user-images.githubusercontent.com/52263269/87735540-c34f2f80-c810-11ea-82b1-78d931d2f771.png" width="90%"></img>
+<div>
+<img src="https://user-images.githubusercontent.com/52263269/87735946-df9f9c00-c811-11ea-89a2-87ff5b1934e7.png" width="90%"></img>
+</div>
 #### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
 
 Contents
