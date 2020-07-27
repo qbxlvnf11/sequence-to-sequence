@@ -7,7 +7,7 @@ Description
 <img src="https://user-images.githubusercontent.com/52263269/87735946-df9f9c00-c811-11ea-89a2-87ff5b1934e7.png" width="90%"></img>
 </div>
 
-#### - Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
+#### - Upload code as the Jupiter Notebook file (.ipynb) for immediate understanding
 
 Contents
 =============
