@@ -30,7 +30,7 @@ References
 
 https://keras.io/examples/lstm_seq2seq/
 
-Contact
+Author
 =============
 
 #### - LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
